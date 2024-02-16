@@ -1,5 +1,5 @@
-# sunset_park
-Sunset Park , Brooklyn - On any given Sunday
+# Sunset_Park
+Sunset Park, Brooklyn - On any given Sunday
 
 ## Overview
 
@@ -16,11 +16,11 @@ Desk Art
 
 ## Features
 
-Key features of your breadboard project.
+Key features of this breadboard project.
 
-- If you implement this circuit you will have a desk with a flashing set of red  leds
-- Just like drive to Sunset Park - Everyone unloading the cars after grocery shopping - with hazards's' on
 - Fun 
+- If you implement this circuit you will have a desk with a flashing set of red  leds
+- Just like a drive to Sunset Park - Everyone unloading the cars after grocery shopping - with hazards' on
 
 ## Materials
 
