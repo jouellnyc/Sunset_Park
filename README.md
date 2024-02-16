@@ -31,18 +31,7 @@ Materials required to replicate the project:
 
 (All available at jameco.com or other electronics online stores)
 
-## Setup
-
-How to set up the breadboard project. 
-
-TBD
-
-| LED | Description|
-|-----|------------|
-| Cathodes | Connect to resistors|
-| Anode   | Connect to GND|
-
-## BreadBoard pics
+## BreadBoard pics - How to Setup 
 (See /images for pdf, fzz and others)
 
 ![Circuit](images/sunset_park.png)
