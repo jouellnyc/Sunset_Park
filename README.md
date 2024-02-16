@@ -10,9 +10,6 @@ Desk Art
 - [Features](#features)
 - [Materials](#materials)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
