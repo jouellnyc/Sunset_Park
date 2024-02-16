@@ -27,7 +27,10 @@ Materials required to replicate the project:
 - 2 x 220 Ohm R
 - 2 x red  LEDs
 - Some jumper cables
+- 10 uf capacitor
 - 400 point breadboard
+- on/off switch
+- 5V power source
 
 (All available at jameco.com or other electronics online stores)
 
