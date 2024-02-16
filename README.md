@@ -24,8 +24,9 @@ Key features of this breadboard project.
 Materials required to replicate the project:
 
 - 555 Timer
-- 2 x 220 Ohm R
-- 2 x red  LEDs
+- 1 x 220 Ohm R
+- 1 x 100 Ohm R
+- 1 x 4.7k Ohm R
 - Some jumper cables
 - 10 uf capacitor
 - 400 point breadboard
